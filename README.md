@@ -1,4 +1,4 @@
-<img alt="header" width="" src="./github-header-img.png">
+<img alt="header" width="1060px" src="./github-header-img.png">
 
 
 <h1 align="center">Hi 👋, I'm Harshita Prajapati</h1>

@@ -7,7 +7,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sharmakarish&label=Profile%20views&color=0e75b6&style=flat" alt="sharmakarish" /> </p>
 
 
-- 🙋‍♂️ All about me is at **[My Website](https://soumyajit.vercel.app/)**
+- 🙋‍♂️ All about me is at **[My Website](https://portfolio-hp-one.vercel.app/)**
 
 - 🔭 I’m currently working on `MERN Stack`.
 
